@@ -1,24 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\Linux\Customers\src\Main.cpp">
+    <ClCompile Include="D:\Linux\Customers\Customers\src\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="D:\Linux\Customers\include\Customers.hpp">
+    <ClInclude Include="D:\Linux\Customers\Customers\include\Customers.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\Linux\Customers\CMakeLists.txt" />
+    <CustomBuild Include="D:\Linux\Customers\Customers\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{AEF3E594-5E7B-36F0-813B-2255734512BD}</UniqueIdentifier>
+      <UniqueIdentifier>{C9D212D5-481A-3936-B93B-03825146D721}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{30FDC0E6-8170-3E0E-BDDC-2F2CCC221D2A}</UniqueIdentifier>
+      <UniqueIdentifier>{B9C9D160-27E1-3163-8653-BC2A6AF52EDE}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
